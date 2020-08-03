@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here are some the things I'm working on:
 
 - 🌱 I’m currently learning xUnit
 - 🤔 I’m looking for help with Docker
 - 💬 Ask me about Anything
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/marco-n-79171478)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marco-n-79171478)
 - ⚡ Fun fact: Love to practice and play piano.
 
